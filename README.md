@@ -1,4 +1,4 @@
-readme_content = """# Digital Test Script for GLADE .CDL Files
+# Digital Test Script for GLADE .CDL Files
 
 This script is intended to take a `.CDL` file from [GLADE](https://github.com/gtkwave/gtkwave) and run digital logic tests on it using LTspice.
 
