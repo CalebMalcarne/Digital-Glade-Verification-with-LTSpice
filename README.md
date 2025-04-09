@@ -4,7 +4,7 @@ This script is intended to take a `.CDL` file from [GLADE](https://github.com/gt
 
 ---
 
-## 🛠 How to Use
+## How to Use
 
 The script references a `data.csv` file for its settings and configurations. You can change the filename in the script if you want to use multiple configurations.
 
