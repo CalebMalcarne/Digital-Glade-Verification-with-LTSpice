@@ -1,6 +1,6 @@
 # Digital Test Script for GLADE .CDL Files
 
-This script is intended to take a `.CDL` file from [GLADE](https://github.com/gtkwave/gtkwave) and run digital logic tests on it using LTspice.
+This script is intended to take a `.CDL` file from [GLADE](https://peardrop.co.uk/) and run digital logic tests on it using LTspice.
 
 ---
 
