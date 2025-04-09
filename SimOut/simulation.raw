@@ -1,0 +1,45 @@
+Title: *
+Date: Sat Apr  5 13:50:19 2025
+Plotname: Operating Point
+Flags: real
+No. Variables: 17
+No. Points:            1
+Offset:    0.0000000000000000e+00
+Command: Linear Technology Corporation LTspice
+Backannotation: subcirc cout b a cin sum
+Variables:
+	0	V(vdd)	voltage
+	1	V(vss)	voltage
+	2	V(a)	voltage
+	3	V(b)	voltage
+	4	V(cin)	voltage
+	5	V(sum)	voltage
+	6	V(cout)	voltage
+	7	I(Vdd)	device_current
+	8	I(Vss)	device_current
+	9	I(Va)	device_current
+	10	I(Vb)	device_current
+	11	I(Vcin)	device_current
+	12	Ix(subcirc:COUT)	subckt_current
+	13	Ix(subcirc:B)	subckt_current
+	14	Ix(subcirc:A)	subckt_current
+	15	Ix(subcirc:CIN)	subckt_current
+	16	Ix(subcirc:SUM)	subckt_current
+Values:
+0		5.000000000000000e+00
+	0.000000000000000e+00
+	5.000000000000000e+00
+	5.000000000000000e+00
+	5.000000000000000e+00
+	4.999999968216163e+00
+	4.999999988082929e+00
+	-1.150467181758692e-10
+	1.150467248870892e-10
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	3.276142746252231e-19
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	1.570654020518975e-14

@@ -1,0 +1,12 @@
+CDL
+C:\Users\new\Desktop\School\ECEN 351 VLSI\Final Project\fulladd.cdl
+Inputs
+A,B,Cin
+Outputs
+Cout,SUM
+High
+5
+SpicePath
+C:\Users\new\AppData\Local\Programs\ADI\LTspice\LTspice.exe
+modelsPath
+C:\Users\new\Desktop\School\ECEN 351 VLSI\DigitalTest\C5N_models_Glade.txt

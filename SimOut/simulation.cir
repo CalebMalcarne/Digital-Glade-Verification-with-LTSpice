@@ -1,0 +1,16 @@
+
+.include C:\Users\new\Desktop\School\ECEN 351 VLSI\Final Project\fulladd.cdl
+.include C:\Users\new\Desktop\School\ECEN 351 VLSI\DigitalTest\C5N_models_Glade.txt
+.GLOBAL vdd vss
+vdd vdd 0 5V
+vss vss 0 0V
+
+VA A 0 DC 5
+VB B 0 DC 5
+VCin Cin 0 DC 5
+
+xSubCirc Cout B A Cin SUM FullAdder
+
+.op
+.backanno
+.end
